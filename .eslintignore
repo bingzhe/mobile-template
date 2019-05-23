@@ -1,8 +1,0 @@
-/build/
-/node_modules/
-/config/
-/dist/
-/public/
-/test/
-/src/config/js/*.js
-
