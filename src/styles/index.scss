@@ -1,0 +1,17 @@
+@import './mixin.scss';
+@import './variables.scss';
+@import './vant_ui.scss';
+
+body {
+    font-family: "PingFang SC";
+    background: #fff;
+    color: #333333;
+    // line-height: 1;
+}
+
+// 清除浮动
+.clearfix:after {
+    content: '';
+    display: block;
+    clear: both;
+}
